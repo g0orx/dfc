@@ -1,0 +1,1 @@
+void sendStart(int adc);
